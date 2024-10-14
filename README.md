@@ -1,4 +1,5 @@
 Bài 1: mã hóa màu đỏ, trắng, xanh lần lượt là 0,1,2(dùng isertion sort)
+
 Bài 2: Nhập N
   Kiểm tra điều kiện là số nguyên tố Blum (p là số nguyên tố và p % 4 == 3)
   
